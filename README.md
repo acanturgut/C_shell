@@ -1,4 +1,4 @@
-## Shell implementation for COMP 304 - OS Course in Koç University
+## Basic Shell implementation
 
 This project requires mpg123 muzik player library
 
